@@ -44,4 +44,5 @@
                      cp "$file" "$owner/"
                   fi
                done
+               echo "Файлы успешно отсортированы по владельцу."
 * ![piccher1](Sort.png)
